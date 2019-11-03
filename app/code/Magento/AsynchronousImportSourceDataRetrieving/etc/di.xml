@@ -24,6 +24,7 @@
                 <item name="base64_encoded_data" xsi:type="string">Magento\AsynchronousImportSourceDataRetrieving\Model\SourceDataRetrievingStrategy\Base64EncodedData</item>
                 <item name="remote_http" xsi:type="string">Magento\AsynchronousImportSourceDataRetrieving\Model\SourceDataRetrievingStrategy\RemoteHttp</item>
                 <item name="remote_https" xsi:type="string">Magento\AsynchronousImportSourceDataRetrieving\Model\SourceDataRetrievingStrategy\RemoteHttps</item>
+                <item name="json" xsi:type="string">Magento\AsynchronousImportSourceDataRetrieving\Model\SourceDataRetrievingStrategy\Json</item>
             </argument>
         </arguments>
     </type>
